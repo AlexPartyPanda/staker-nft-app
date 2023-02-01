@@ -1,0 +1,16 @@
+<svg id="Staker" width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <g id="Staker">
+    <desc>
+      Staker mascot inspired by Proteus node
+    </desc>
+    <g stroke="black" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="Orange">
+      <rect x="91" y="319" width="313" height="98"/>
+      <rect x="91" y="277" width="313" height="54"/>
+      <rect x="91" y="84" width="313" height="193"/>
+      <line x1="223" y1="386" x2="364" y2="386"/>
+      <path d="M303 328C303 334.168 297.844 341.367 285.814 347.382C274.143 353.218 257.6 357 239 357C220.4 357 203.857 353.218 192.186 347.382C180.156 341.367 175 334.168 175 328C175 321.832 180.156 314.633 192.186 308.618C203.857 302.782 220.4 299 239 299C257.6 299 274.143 302.782 285.814 308.618C297.844 314.633 303 321.832 303 328Z"/>
+    </g>
+    <ellipse cx="188.5" cy="250.5" rx="15.5" ry="14.5" fill="grey"/>
+    <ellipse cx="302.5" cy="249.5" rx="15.5" ry="14.5" fill="grey"/>
+  </g>
+</svg>
